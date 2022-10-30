@@ -1,6 +1,0 @@
-class compteur {
-    public:
-    compteur(int valeur);
-    private:
-    int d_valeur;
-}
